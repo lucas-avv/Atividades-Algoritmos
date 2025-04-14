@@ -1,2 +1,2 @@
 # Atividades-Algoritmos
-Atividade Algoritmo Cléber
+Atividade Algoritmo Cléber feita no Visual Studio Code
